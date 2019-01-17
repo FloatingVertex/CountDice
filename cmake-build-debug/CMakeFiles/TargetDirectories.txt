@@ -1,0 +1,3 @@
+C:/Users/pushp/CLionProjects/CountDice/cmake-build-debug/CMakeFiles/CountDice.dir
+C:/Users/pushp/CLionProjects/CountDice/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pushp/CLionProjects/CountDice/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.12)
+project(CountDice)
+find_package( OpenCV REQUIRED )
+set(CMAKE_CXX_STANDARD 14)
+add_executable(CountDice CountDice.cpp)
+target_link_libraries( CountDice ${OpenCV_LIBS} )
